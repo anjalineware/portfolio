@@ -14,6 +14,6 @@ Welcome to my personal portfolio website!
 
 ## 📸 Preview
 
-Live Site 👉 [https://your-username.github.io/portfolio/](https://your-username.github.io/portfolio/)
+Live Site 👉 [https://your-username.github.io/portfolio/]([https://your-username.github.io/portfolio/](https://anjalineware.netlify.app/))
 
 ---
