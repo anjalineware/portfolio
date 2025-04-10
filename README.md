@@ -11,9 +11,3 @@ Welcome to my personal portfolio website!
   - Hosted on GitHub Pages
 
 ---
-
-## 📸 Preview
-
-Live Site 👉 [https://your-username.github.io/portfolio/]([https://anjalineware.netlify.app/])
-
----
